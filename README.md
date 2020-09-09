@@ -1,18 +1,18 @@
 # Awesome list of Russian government open source repositories and projects [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Awesome list of Russian government open source repositories and projects
-Список российских государственных проектов 
+РЎРїРёСЃРѕРє СЂРѕСЃСЃРёР№СЃРєРёС… РіРѕСЃСѓРґР°СЂСЃС‚РІРµРЅРЅС‹С… РїСЂРѕРµРєС‚РѕРІ 
 ### Table of contents
 
 * [Federal](#federal)
 * [Regional](#regional)
 
 ## Federal
-* [Открытый код Счетной палаты РФ](https://code.ach.gov.ru/public) - исходный код проектов Счетной палаты РФ
-* [Открытый код ЦИК России](https://github.com/cikrf) - исходный код компонентов системы электронного голосования на федеральном уровне
+* [РћС‚РєСЂС‹С‚С‹Р№ РєРѕРґ РЎС‡РµС‚РЅРѕР№ РїР°Р»Р°С‚С‹ Р Р¤](https://code.ach.gov.ru/public) - РёСЃС…РѕРґРЅС‹Р№ РєРѕРґ РїСЂРѕРµРєС‚РѕРІ РЎС‡РµС‚РЅРѕР№ РїР°Р»Р°С‚С‹ Р Р¤
+* [РћС‚РєСЂС‹С‚С‹Р№ РєРѕРґ Р¦РРљ Р РѕСЃСЃРёРё](https://github.com/cikrf) - РёСЃС…РѕРґРЅС‹Р№ РєРѕРґ РєРѕРјРїРѕРЅРµРЅС‚РѕРІ СЃРёСЃС‚РµРјС‹ СЌР»РµРєС‚СЂРѕРЅРЅРѕРіРѕ РіРѕР»РѕСЃРѕРІР°РЅРёСЏ РЅР° С„РµРґРµСЂР°Р»СЊРЅРѕРј СѓСЂРѕРІРЅРµ
 
 
 ## Regional
-* [Открытый код ДИТ Москвы](https://github.com/moscow-technologies/) - исходный код компонентов электронного голосования в г. Москве
+* [РћС‚РєСЂС‹С‚С‹Р№ РєРѕРґ Р”РРў РњРѕСЃРєРІС‹](https://github.com/moscow-technologies/) - РёСЃС…РѕРґРЅС‹Р№ РєРѕРґ РєРѕРјРїРѕРЅРµРЅС‚РѕРІ СЌР»РµРєС‚СЂРѕРЅРЅРѕРіРѕ РіРѕР»РѕСЃРѕРІР°РЅРёСЏ РІ Рі. РњРѕСЃРєРІРµ
 
 
