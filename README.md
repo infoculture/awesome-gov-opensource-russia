@@ -6,7 +6,7 @@ Awesome list of Russian government open source repositories and projects
 
 * [Federal](#federal)
 * [Regional](#regional)
-# [Government enterprises](#governmententerprises)
+* [Government enterprises](#governmententerprises)
 
 ## Federal
 * [Открытый код Счетной палаты РФ](https://code.ach.gov.ru/public) - исходный код проектов Счетной палаты РФ
