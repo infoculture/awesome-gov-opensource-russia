@@ -14,5 +14,6 @@ Awesome list of Russian government open source repositories and projects
 
 ## Regional
 * [Открытый код ДИТ Москвы](https://github.com/moscow-technologies/) - исходный код компонентов электронного голосования в г. Москве
+* [Открытый код ИК Казани](https://github.com/kznru) - открытый код нескольких проектов исполнительного комитета г. Казани
 
 
