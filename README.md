@@ -7,6 +7,7 @@ Awesome list of Russian government open source repositories and projects
 * [Federal](#federal)
 * [Regional](#regional)
 * [Government enterprises](#governmententerprises)
+* [Scientific](#scientific)
 
 ## Federal
 * [Открытый код Счетной палаты РФ](https://code.ach.gov.ru/public) - исходный код проектов Счетной палаты РФ
@@ -19,4 +20,6 @@ Awesome list of Russian government open source repositories and projects
 ## Government enterprises
 * [Rostelecom RT IT](https://github.com/Restream) - проекты ООО "РТК ИТ" (входит в ГК ПАО "Ростелеком"), включая базу Restream для языка Go
 
+## Scientific
+* [Институт системного программирования им. В.П. Иванникова РАН](https://github.com/ispras) - проекты LingvoDoc и многие другие
 
